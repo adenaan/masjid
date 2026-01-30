@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure any 'admin-input' helper class used in the component exists */
+@layer components {
+  .admin-input { @apply w-full; }
+}
+
+html, body { overflow-x: hidden; }
+#root { overflow-x: hidden; }
