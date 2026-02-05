@@ -1,4 +1,9 @@
 {
-  "dependencyInstallCommand": "node -v && npm -v && npm i -g npm@10 && npm -v && npm install",
-  "webBuildCommand": "npm run build"
+  "apps": [
+    {
+      "appId": "39837a21",
+      "dependencyInstallCommand": "node -v && npm -v && npm i -g npm@10 && npm -v && npm install",
+      "webBuildCommand": "npm run build"
+    }
+  ]
 }
