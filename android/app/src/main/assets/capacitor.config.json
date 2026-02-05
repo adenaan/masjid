@@ -1,0 +1,7 @@
+{
+	"appId": "com.ubuntucore.masjid",
+	"appName": "Masjid APP",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"npmClient": "npm"
+}

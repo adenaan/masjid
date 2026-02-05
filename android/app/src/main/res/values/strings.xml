@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Masjid APP</string>
+    <string name="title_activity_main">Masjid APP</string>
+    <string name="package_name">com.ubuntucore.masjid</string>
+    <string name="custom_url_scheme">com.ubuntucore.masjid</string>
+</resources>

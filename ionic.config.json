@@ -1,0 +1,7 @@
+{
+  "name": "Masijid App",
+  "integrations": {
+    "capicitor": {}
+  },
+  "type": "react"
+}
