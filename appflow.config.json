@@ -1,0 +1,4 @@
+{
+  "dependencyInstallCommand": "node -v && npm -v && npm i -g npm@10 && npm -v && npm ci",
+  "webBuildCommand": "npm run build"
+}
